@@ -112,3 +112,5 @@ Ajouter un fichier js de test dans `tests/src/test/js/stresstest/scenarios/impac
 ```shell
 docker-compose run --rm load-tester run file:///home/k6/src/scenarios/impacted-module/my-scenario.js
 ```
+
+Ce dépôt est un miroir officiel du dépôt Edifice : https://github.com/edificeio/entcore
